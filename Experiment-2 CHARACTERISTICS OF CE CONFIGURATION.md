@@ -46,6 +46,8 @@ Formula:
 
 # Graph:
 ![exp 2 graph](https://github.com/user-attachments/assets/860bf45a-1bc5-4c80-b754-4bb4bd8b8228)
+![exp 2 graph2](https://github.com/user-attachments/assets/f9bd9da5-765d-426b-b0e6-2bac5b11fe48)
+
 
 
 
